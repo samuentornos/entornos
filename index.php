@@ -9,6 +9,12 @@
   <body>
 
    <h1>Header</h1>
+   <?php
+   $area=(200*546)/2;
+   print"El area del triangulo es  $area <br>"
+   ?>
+
+   $
 
    <img src="imagenes/increibles.png" width="100px"/>
 
