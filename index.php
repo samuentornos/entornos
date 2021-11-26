@@ -9,6 +9,14 @@
   <body>
 
    <h1>Header</h1>
+   <nav> 
+   <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Nuestro Equipo</a></li>
+      <li><a href="#">Projectos</a></li>
+      <li><a href="#">Contactos</a></li>
+   </ul>
+   </nav>
    <?php
    $area=(200*546)/2;
    print"El area del triangulo es  $area <br>"
