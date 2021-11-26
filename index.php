@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-
+x
     <title>Mi título de página 2</title>
     <link rel="stylesheet" href="css/layout.css">
   </head>
